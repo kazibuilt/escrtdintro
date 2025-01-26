@@ -1,0 +1,9 @@
+
+11.01.25, 08:39:05 - ERROR: Download of “https://static.brandfolder.com”, referred from “/Users/matthew/Websites/brand2/brandfolder.com/docusign-1/press-kit/index.html”, failed with error code 403 (forbidden)
+11.01.25, 08:39:06 - ERROR: Download of “https://assets2.brandfolder.io”, referred from “/Users/matthew/Websites/brand2/brandfolder.com/docusign-1/press-kit/index.html”, failed with error code 400 (bad request)
+11.01.25, 08:39:06 - ERROR: Download of “https://use.edgefonts.net”, referred from “/Users/matthew/Websites/brand2/brandfolder.com/docusign-1/press-kit/index.html”, failed with error code -1200 (An SSL error has occurred and a secure connection to the server cannot be made.)
+11.01.25, 08:39:06 - ERROR: Download of “https://cdn.fs.brandfolder.com”, referred from “/Users/matthew/Websites/brand2/brandfolder.com/docusign-1/press-kit/index.html”, failed with error code 404 (not found)
+11.01.25, 08:39:06 - ERROR: Download of “https://fonts.brandfolder.com”, referred from “/Users/matthew/Websites/brand2/brandfolder.com/docusign-1/press-kit/index.html”, failed with error code 403 (forbidden)
+11.01.25, 08:39:09 - ERROR: Download of “https://cdn.brandfolder.io/I6FML9WY/as/pglue9-ckfib4-8vcshu/dropdown-caret.svg”, referred from “/Users/matthew/Websites/brand2/static.brandfolder.com/packs/css/application-a22c9ce7.css”, failed with error code 404 (not found)
+
+---------------------

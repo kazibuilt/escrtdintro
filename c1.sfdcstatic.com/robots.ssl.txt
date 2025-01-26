@@ -1,0 +1,14 @@
+# sfdcstatic-Robots.txt file for http://www.sfdcstatic.com
+# rh_11_May_11
+# updated rm_11_28_16
+# All robots will not spider the domain
+#
+#
+User-agent: *
+Allow: /*.css 
+Allow: /*.gif 
+Allow: /*.jpg 
+Allow: /*.js 
+Allow: /*.png 
+Allow: /*.svg 
+Disallow: /

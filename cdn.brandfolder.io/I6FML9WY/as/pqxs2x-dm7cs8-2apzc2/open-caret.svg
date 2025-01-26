@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>dropdown-carrot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dropdown-carrot" transform="translate(3.000000, 4.500000) rotate(-90.000000) translate(-3.000000, -4.500000) translate(-1.000000, 2.000000)" fill="#4A4A4A" fill-rule="nonzero">
+            <path d="M7.99984,0.555556 C7.99984,0.722222 7.949841,0.833333 7.849843,0.944444 L4.349913,4.833333 C4.149917,5.055555 3.849923,5.055555 3.649927,4.833333 L0.149997,0.944444 C-0.049999,0.722222 -0.049999,0.388889 0.149997,0.166667 C0.349993,-0.055556 0.649987,-0.055556 0.849983,0.166667 L4,3.666756 L7.150017,0.166667 C7.350013,-0.055556 7.650007,-0.055556 7.850003,0.166667 C7.950001,0.277778 8,0.388889 8,0.555556 L7.99984,0.555556 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
